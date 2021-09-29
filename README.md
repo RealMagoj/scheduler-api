@@ -125,3 +125,13 @@ Response:
   }
 }
 ```
+## Dependencies
+
+- Body-parser 1.18.3 or above
+- Cors 2.8.5 or above
+- Dotenv 7.0.0 or above
+- Express 4.16.4 or above
+- Helmet 3.18.0 or above
+- Pg 8.5.0 or above
+- Socket.io 2.2.0 or above
+- Ws 7.0.0 or above
